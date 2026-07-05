@@ -61,7 +61,7 @@ I'm a passionate **Software Engineer** at **SPNX Consulting**, dedicated to buil
 
 ## 🚀 Featured Projects
 
-### 📺 [IPTV Hub](https://github.com/asheeshsahu7300/iptv-hub) — ⭐ 13 | 🍴 2
+### 📺 [IPTV Hub](https://github.com/asheeshsahu7300/iptv-hub) — ⭐ 23 | 🍴 2
 
 > A modern, high-performance **IPTV player** built with **Expo**, **React Native**, and **TypeScript** — supporting M3U, Xtream Codes, and MAG/Stalker portals. Optimized for Android with external player support, caching, pagination, and favorites.
 
