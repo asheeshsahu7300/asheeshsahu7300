@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi there, I'm Asheesh Sahu 👋
+# Hi, I'm Asheesh Sahu
 
-### Software Engineer & Mobile / Frontend Specialist
-Building high-performance cross-platform mobile apps, Android TV experiences, and scalable web solutions.
+### Software Engineer & Mobile / Frontend Developer
+Building high-performance cross-platform mobile applications, Android TV experiences, and scalable web solutions.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asheesh-sahu-411916202">
@@ -15,41 +15,41 @@ Building high-performance cross-platform mobile apps, Android TV experiences, an
   <a href="mailto:asheeshsahu7300@gmail.com">
     <img src="https://img.shields.io/badge/Email-asheeshsahu7300%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=asheeshsahu7300&style=for-the-badge&color=007acc">
+  <a href="https://github.com/asheeshsahu7300">
     <img src="https://komarev.com/ghpvc/?username=asheeshsahu7300&style=for-the-badge&color=007acc" alt="Profile Views" />
   </a>
 </p>
 
 <!-- Dynamic Typing Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer+at+SPNX+Consulting;React+Native+%26+Android+TV+Architect;Building+Infinity+IPTV+Player;Exploring+Agentic+AI+%26+Modern+Dev+Tooling" alt="Typing SVG" />
+<a href="https://github.com/asheeshsahu7300">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer+at+SPNX+Consulting;React+Native+%26+Frontend+Developer;Building+Infinity+IPTV+Player;Exploring+Agentic+AI+%26+Modern+Dev+Tooling" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am a results-oriented **Software Engineer** specializing in **React Native, Android TV, React, and TypeScript**. I have a strong passion for designing intuitive, 60fps user experiences, robust client-side state architectures, and high-performance streaming solutions.
+I am a results-oriented **Software Engineer** specializing in **React Native, Android TV, React, and TypeScript**. I have a strong focus on designing intuitive, 60fps user experiences, robust client-side state architectures, and high-performance streaming solutions.
 
-- 💼 Currently working as a **Frontend Developer at SPNX Consulting**
-- 📺 Creator & Lead Developer of **[Infinity IPTV Player](https://github.com/asheeshsahu7300/iptv-hub)** — a modern, high-performance streaming client supporting M3U, Xtream, and MAG/Stalker with full Android TV & D-Pad optimization
-- 🤖 Actively exploring **Agentic AI workflows, LLM orchestration, and modern engineering tooling**
-- ⚡ Strong background in **Data Structures & Algorithms, Clean Architecture, and Performance Optimization**
-- 📍 Based in **India** • Open for collaborations, technical discussions, and exciting engineering opportunities
+- Currently working as a **Frontend Developer at SPNX Consulting**
+- Creator & Lead Developer of **[Infinity IPTV Player](https://github.com/asheeshsahu7300/iptv-hub)** — a modern, high-performance streaming client supporting M3U, Xtream, and MAG/Stalker with full Android TV & D-Pad optimization
+- Actively exploring **Agentic AI workflows, LLM orchestration, and modern engineering tooling**
+- Strong background in **Data Structures & Algorithms, Clean Architecture, and Performance Optimization**
+- Based in **India** • Open for collaborations, technical discussions, and exciting engineering opportunities
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack
 
-### 📱 Mobile & TV Development
+### Mobile & TV Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Android TV](https://img.shields.io/badge/Android_TV-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### 💻 Web & Frontend
+### Web & Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -58,20 +58,20 @@ I am a results-oriented **Software Engineer** specializing in **React Native, An
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend, APIs & Databases
+### Backend, APIs & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🤖 AI, Machine Learning & Automation
+### AI, Machine Learning & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🧰 Developer Tools & DevOps
+### Developer Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -80,12 +80,12 @@ I am a results-oriented **Software Engineer** specializing in **React Native, An
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/asheeshsahu7300/iptv-hub">Infinity IPTV Player</a></h3>
+      <h3><a href="https://github.com/asheeshsahu7300/iptv-hub">Infinity IPTV Player</a></h3>
       <p>A flagship, production-grade IPTV and streaming media player for Android & Android TV built from scratch.</p>
       <ul>
         <li><b>Multi-Portal Support:</b> M3U/M3U8 playlists, Xtream Codes API, and MAG/Stalker portal protocols.</li>
@@ -100,7 +100,7 @@ I am a results-oriented **Software Engineer** specializing in **React Native, An
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/asheeshsahu7300/AI-based-engineering-skills-library">AI Engineering Skills Library</a></h3>
+      <h3><a href="https://github.com/asheeshsahu7300/AI-based-engineering-skills-library">AI Engineering Skills Library</a></h3>
       <p>Reusable engineering skills and cognitive workflows for autonomous AI agents.</p>
       <ul>
         <li>Standardized <code>SKILL.md</code> capability definitions for agent routing and execution.</li>
@@ -116,7 +116,7 @@ I am a results-oriented **Software Engineer** specializing in **React Native, An
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔄 <a href="https://github.com/asheeshsahu7300/LeetGit-Sync">LeetGit-Sync</a></h3>
+      <h3><a href="https://github.com/asheeshsahu7300/LeetGit-Sync">LeetGit-Sync</a></h3>
       <p>A lightweight Chrome extension that automatically synchronizes accepted LeetCode solutions directly to GitHub.</p>
       <ul>
         <li>Automatic categorization into clean DSA topic folders (DP, Graphs, Arrays, Trees, etc.).</li>
@@ -130,7 +130,7 @@ I am a results-oriented **Software Engineer** specializing in **React Native, An
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎫 <a href="https://github.com/asheeshsahu7300/TickDesk-BE">TickDesk Support Backend</a></h3>
+      <h3><a href="https://github.com/asheeshsahu7300/TickDesk-BE">TickDesk Support Backend</a></h3>
       <p>Enterprise-grade ticketing & escalation backend service with AI-assisted categorization.</p>
       <ul>
         <li>Role-based access control (RBAC) for Admins, Agents, and Customers.</li>
@@ -146,7 +146,7 @@ I am a results-oriented **Software Engineer** specializing in **React Native, An
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📸 <a href="https://github.com/asheeshsahu7300/Memories">Memories Full-Stack App</a></h3>
+      <h3><a href="https://github.com/asheeshsahu7300/Memories">Memories Full-Stack App</a></h3>
       <p>A full-stack social scrapbook web application allowing users to preserve and share meaningful life milestones.</p>
       <ul>
         <li>Full CRUD capabilities with rich image uploads and real-time feed updates.</li>
@@ -160,7 +160,7 @@ I am a results-oriented **Software Engineer** specializing in **React Native, An
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/asheeshsahu7300/Object-Detection-Using-OpenCv">Computer Vision & Detection Suite</a></h3>
+      <h3><a href="https://github.com/asheeshsahu7300/Object-Detection-Using-OpenCv">Computer Vision & Detection Suite</a></h3>
       <p>Real-time computer vision models for object identification and driver drowsiness monitoring.</p>
       <ul>
         <li>MobileNet SSD v3 algorithm for high-fps multi-object detection in webcam & video streams.</li>
@@ -178,7 +178,7 @@ I am a results-oriented **Software Engineer** specializing in **React Native, An
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -192,21 +192,21 @@ I am a results-oriented **Software Engineer** specializing in **React Native, An
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=asheeshsahu7300&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=asheeshsahu7300&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asheeshsahu7300&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/38bdf8/asheeshsahu7300" alt="Asheesh Sahu's GitHub Contribution Graph" width="100%" />
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Connect & Collaborate
 
-I'm always enthusiastic about discussing new engineering challenges, cutting-edge frontend architectures, mobile innovation, or open-source projects!
+I am always open to discussing new engineering challenges, high-performance mobile & frontend architectures, or open-source projects.
 
 <div align="center">
 
