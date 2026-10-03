@@ -16,7 +16,7 @@ Building high-performance cross-platform mobile applications, Android TV experie
     <img src="https://img.shields.io/badge/Email-asheeshsahu7300%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/asheeshsahu7300">
-    <img src="https://komarev.com/ghpvc/?username=asheeshsahu7300&style=for-the-badge&color=007acc" alt="Profile Views" />
+    <img src="https://hits.sh/github.com/asheeshsahu7300.svg?style=for-the-badge&label=Profile%20Views&color=007acc&extraCount=520" alt="Profile Views" />
   </a>
 </p>
 
