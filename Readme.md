@@ -34,7 +34,7 @@ Building high-performance cross-platform mobile applications, Android TV experie
 I am a results-oriented **Software Engineer** specializing in **React Native, Android TV, React, and TypeScript**. I have a strong focus on designing intuitive, 60fps user experiences, robust client-side state architectures, and high-performance streaming solutions.
 
 - Currently working as a **Frontend Developer at SPNX Consulting**
-- Currently working on **[Infinity IPTV Player](https://github.com/asheeshsahu7300/iptv-hub)** — a modern, high-performance streaming client supporting M3U, Xtream, and MAG/Stalker with full Android TV & D-Pad optimization
+- Currently working on **[Infinity IPTV Player](https://github.com/asheeshsahu7300/iptv-hub)** — app supporting M3U, Xtream, and MAG/Stalker with full Android TV & D-Pad optimization
 - Actively exploring **Agentic AI workflows, LLM orchestration, and modern engineering tooling**
 - Strong background in **Data Structures & Algorithms, Clean Architecture, and Performance Optimization**
 - Based in **India** • Open for collaborations, technical discussions, and exciting engineering opportunities
